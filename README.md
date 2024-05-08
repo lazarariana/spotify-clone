@@ -1,4 +1,4 @@
-# Global Waves - Stage 3
+# Global Waves - Spotify clone 
 
 ## Description
 
